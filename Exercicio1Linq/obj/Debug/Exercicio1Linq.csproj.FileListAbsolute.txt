@@ -1,0 +1,7 @@
+C:\Estudos\Curso C#\projetos\lambda-delegates-linq\Exercicio1Linq\Exercicio1Linq\bin\Debug\Exercicio1Linq.exe.config
+C:\Estudos\Curso C#\projetos\lambda-delegates-linq\Exercicio1Linq\Exercicio1Linq\bin\Debug\Exercicio1Linq.exe
+C:\Estudos\Curso C#\projetos\lambda-delegates-linq\Exercicio1Linq\Exercicio1Linq\bin\Debug\Exercicio1Linq.pdb
+C:\Estudos\Curso C#\projetos\lambda-delegates-linq\Exercicio1Linq\Exercicio1Linq\obj\Debug\Exercicio1Linq.csprojAssemblyReference.cache
+C:\Estudos\Curso C#\projetos\lambda-delegates-linq\Exercicio1Linq\Exercicio1Linq\obj\Debug\Exercicio1Linq.csproj.CoreCompileInputs.cache
+C:\Estudos\Curso C#\projetos\lambda-delegates-linq\Exercicio1Linq\Exercicio1Linq\obj\Debug\Exercicio1Linq.exe
+C:\Estudos\Curso C#\projetos\lambda-delegates-linq\Exercicio1Linq\Exercicio1Linq\obj\Debug\Exercicio1Linq.pdb
